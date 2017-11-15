@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    border: 2px solid #07404c;
+width: 980px;
+margin: auto; }
+h1 {
+    color: white;
+    text-align: center;
+
+    p {
+        font-family: verdana;
+        font-size: 20px;
+    }
+}
+
+
+</style>
+.wrapper{
+  width: auto;
+  height: auto;
+  text-align: center;
+  image-orientation: center;
+
+}
+.lol{ float: center;
+text-align: center;
+image-orientation: center;}
